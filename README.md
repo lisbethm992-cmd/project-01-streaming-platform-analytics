@@ -21,7 +21,14 @@ The goal is to transform raw data into meaningful insights through data cleaning
 - Create an interactive dashboard for decision-making
 ## Dashboard Preview
 
-![Streaming Dashboard](streaming-dashboard.png
+![Streaming Dashboard](streaming-dashboard.png)
+
+## Key Insights
+
+- Identified trends in user engagement and content consumption.
+- Analyzed revenue performance and key business indicators.
+- Evaluated content performance to understand audience preferences.
+- Discovered patterns that can support data-driven decisions.
 ## Business Recommendations
 
 - Focus on high-performing content categories to maximize user engagement.
